@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 source vmconfig
 if [ $Region -ne "us-east-2" ]
 then 
